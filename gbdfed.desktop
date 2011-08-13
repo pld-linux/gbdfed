@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=gbdfed
+Comment=GTK+2-based BDF, Linux console (PSF, CP, and FNT) font editor
+Comment[pl]=Edytor fontów BDF i konsoli Linuksa (PSF, CP, i FNT)
+Icon=gbdfed
+Exec=gbdfed
+Terminal=false
+Type=Application
+Categories=GTK;Development;
+# vi: encoding=utf-8
